@@ -20,9 +20,6 @@ import com.example.sam.myapplication.database.DadosOpenHelper;
 import com.example.sam.myapplication.dominio.entidade.Cliente;
 import com.example.sam.myapplication.dominio.repositorio.ClienteRepositorio;
 
-//Comentário para teste do GIT
-//Blah blah
-//Bleh Bleh Bleh
 public class ActCadCliente extends AppCompatActivity {
     private EditText edtNome;
     private EditText edtEndereco;
